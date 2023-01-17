@@ -1,0 +1,10 @@
+body{
+  background: linear-gradient(rgb(155, 243, 243),rgb(252, 168, 182),lightyellow);
+    background-repeat: no-repeat;
+    height: 573px;
+}
+
+.header {
+  text-align: center;
+  text-shadow: 3px 3px cyan;
+}

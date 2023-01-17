@@ -1,0 +1,25 @@
+.btns{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.button{
+    border-radius: 2em;
+    height: 3.5em;
+    background-color: aquamarine;
+    cursor: pointer;
+}
+
+.button:hover{
+    background-color: beige;
+}
+
+.contents{
+    border-radius: 2em;
+    width: 113%;
+    text-align: center;
+    margin-top: 1.5em;
+    border: 2px solid black;
+    background-color: rgb(97, 237, 237);
+}
